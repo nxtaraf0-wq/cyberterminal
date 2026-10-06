@@ -1,0 +1,6 @@
+{
+  "name": "HACK//SIMULATOR",
+  "description": "Advanced Cyber Security Simulation Terminal - Cinematic, safe visual hacking and cyber security simulation experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
